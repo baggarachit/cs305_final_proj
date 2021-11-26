@@ -1,0 +1,3 @@
+Pin: pin-3.17-98314-0c048d619
+Copyright 2002-2020 Intel Corporation.
+E:  champsim_tracer.cpp:343: IARG_MEMORYOP_EA/IARG_MEMORYOP_MASKED_ON invalid memory operand index (0) on      1 0x00007fa1d45b0100 mov rdi, rsp
